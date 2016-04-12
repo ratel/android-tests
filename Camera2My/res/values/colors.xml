@@ -1,0 +1,15 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    
+    <color name="text_color">#ff582c1a</color>
+ <!-- основной цвет текста (коричневенький) -->
+    <color name="question_text">#ffba2323</color>
+ <!-- цвет текста вопроса (кирпичный) -->
+    <color name="button_text">#ffffffff</color>
+ <!-- цвет текста на кнопках (белый) -->
+
+
+    <color name="signature_bg">#D3D3D3</color>
+ <!-- цвет фона подписей (светло-серый, но потемнее) -->
+</resources>
